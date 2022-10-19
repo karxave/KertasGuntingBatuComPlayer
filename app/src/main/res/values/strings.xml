@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">KertasGuntingBatuComPlayer</string>
+
+    <string name="text_next">NEXT</string>
+    <string name="text_previous">PREV</string>
+    <string name="text_landing_page1">Bermain suit melawan \n sesama pemain.</string>
+    <string name="text_landing_page2">Bermain suit melawan \n komputer.</string>
+    <string name="text_landing_page3">Tuliskan namamu dibawah</string>
+    <string name="text_choose_your_opponent">PILIH LAWANMU</string>
+    <string name="text_start">START</string>
+
+    <string name="result_draw">DRAW</string>
+    <string name="tv_string_player1">Pemain 1</string>
+    <string name="tv_string_player_com">C O M</string>
+    <string name="result_vs">V S</string>
+    <string name="result_player1_win">Pemain  1</string>
+    <string name="result_player_com_win">COM </string>
+    <string name="result_win">MENANG !</string>
+    <string name="result_player_2_win">Pemain  2</string>
+
+    <string name="string_title_first_letter">Kertas</string>
+    <string name="string_title_second_letter">Gunting</string>
+    <string name="string_title_third_letter">Batu</string>
+    <string name="text_choose_the_enemy">PILIH LAWANMU</string>
+
+    <string name="app_first_title">Kertas</string>
+    <string name="app_second_title">Gunting</string>
+    <string name="app_third_title">Batu</string>
+    <string name="textVS">V S</string>
+
+    <string name="player_left">Pemain 1</string>
+    <string name="player_right">Pemain 2</string>
+    <string name="vs">V S</string>
+
+    <string name="textHasilDraw">\ D R A W !\</string>
+
+    <string name="show_dialog">Show dialog</string>
+    <string name="show_custom_dialog">Show custom dialog</string>
+    <string name="ok">OK</string>
+    <string name="greetings_sent_successfully">Greetings sent successfully</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_lagi">Main Lagi</string>
+    <string name="kembali_ke_menu">Kembali Ke Menu</string>
+
+</resources>
